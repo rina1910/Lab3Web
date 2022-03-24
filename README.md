@@ -38,8 +38,7 @@
 6. Setelah itu buat file baru dengan nama lab3_tabel.html seperti berikut.
    <p>6.1 Kerangka di VSCode</p>
 ![](Foto/foto10.png) 
-![](Foto/foto11.png)
-   <p>6.2 Ini hasil di Microsoft Edge</p> 
+![](Foto/foto11.png) 
 ![](Foto/foto12.png)
 <strong><p>Jadi file ini menampilkan sebuah tabel</strong></p>
 
