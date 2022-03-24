@@ -38,8 +38,9 @@
 6. Setelah itu buat file baru dengan nama lab3_tabel.html seperti berikut.
    <p>6.1 Kerangka di VSCode</p>
 ![](Foto/foto10.png) 
-![](Foto/foto11.png) 
-![](Foto/foto12.png)
+![](Foto/foto11.png)
+   <p>6.2 Ini hasil di Microsoft Edge</p> 
+     ![](Foto/foto12.png)
 <strong><p>Jadi file ini menampilkan sebuah tabel</strong></p>
 
  
@@ -47,7 +48,7 @@
    <p>7.1 Kerangka di VSCode</p>
  ![](Foto/foto13.png)
    <p>7.2 Ini hasil di Microsoft Edge</p>
-![](Foto/foto14.png)
+     ![](Foto/foto14.png)
 <strong><p>Jadi untuk mengatur margin dan padding pada cel data harus menggunakan atribut tambahan tersebut</strong></p>
 
 8. Langkah selanjutnya menggabungkan sel data. 
@@ -55,6 +56,8 @@
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
 horizontal).</p>
 ![](Foto/foto15.png)
+   <p>Ini hasil di Microsoft Edge</p>
+![](Foto/foto16.png)
 
 
 
