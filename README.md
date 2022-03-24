@@ -19,4 +19,4 @@
 
 3. Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
     <p>3.2 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
-  ![](Foto/foto3.png)
+  ![](Foto/foto4.png)
