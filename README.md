@@ -38,16 +38,18 @@
 6. Setelah itu buat file baru dengan nama lab3_tabel.html seperti berikut.
    <p>6.1 Kerangka di VSCode</p>
 ![](Foto/foto10.png) 
-   <p>6.1.1 Kerangka selanjutnya di VSCode</p>
 ![](Foto/foto11.png)
    <p>6.2 Ini hasil di Microsoft Edge</p> 
-![](Foto/foto12..png)
+![](Foto/foto12.png)
+<strong><p>Jadi file ini menampilkan sebuah tabel</strong></p>
+
  
 7. Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
    <p>7.1 Kerangka di VSCode</p>
  ![](Foto/foto13.png)
    <p>7.2 Ini hasil di Microsoft Edge</p>
-![](Foto/foto14..png)
+![](Foto/foto14.png)
+<strong><p>Jadi untuk mengatur margin dan padding pada cel data harus menggunakan atribut tambahan tersebut</strong></p>
 
 8. Langkah selanjutnya menggabungkan sel data. 
    <p> Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
