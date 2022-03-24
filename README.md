@@ -39,14 +39,20 @@
    <p>6.1 Kerangka di VSCode</p>
 ![](Foto/foto10.png)
 ![](Foto/foto11.png)
-   <p>6.2 Ini hasil di Microsoft Edge</p>
-![](Foto/foto12.png)
+   <p>6.2 Ini hasil di Microsoft Edge</p> 
+ ![](Foto/foto12.png)
  
 7. Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
    <p>7.1 Kerangka di VSCode</p>
  ![](Foto/foto13.png)
    <p>7.2 Ini hasil di Microsoft Edge</p>
-![](Foto/foto14.png)
+ ![](Foto/foto14.png)
+
+8. Langkah selanjutnya menggabungkan sel data. 
+   <p> Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
+horizontal).</p>
+![](Foto/foto15.png)
 
 
 
