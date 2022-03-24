@@ -25,30 +25,31 @@
 
 4. Kemudian tambakan kode untuk membuat <b><i>Unordered List</i></b>, setelah deklarasi ordered list pada section unordered-list, seperti berikut.
  ![](Foto/foto6.png)
-   <p>3.3 Ini hasil di Microsoft Edge</p>
+   <p>4.1 Ini hasil di Microsoft Edge</p>
 ![](Foto/foto7.png)
 <strong>Jadi <b><i>Unordered List</i></b> untuk menampilkan urutan dengan titik</strong>
 
 5. Kemudian tambahkan kode untuk membuat <b><i>description list</i></b> setelah deklarasi unorderd-list.
  ![](Foto/foto8.png)
-   <p>3.3 Ini hasil di Microsoft Edge</p>
+   <p>5.1 Ini hasil di Microsoft Edge</p>
  ![](Foto/foto9.png)
  <strong><p>Jadi <b><i>description list</i></b> untuk menampilkan huruf lebih kedalam </strong></p>
 
 6. Setelah itu buat file baru dengan nama lab3_tabel.html seperti berikut.
-   <p>2.1 Kerangka di VSCode</p>
+   <p>6.1 Kerangka di VSCode</p>
  ![](Foto/foto10.png)
  ![](Foto/foto11.png)
- ![](Foto/foto12.png)
-   <p>2.2 Ini hasil di Microsoft Edge</p>
-  ![](Foto/foto13.png)
+   <p>6.2 Ini hasil di Microsoft Edge</p>
+  ![](Foto/foto12.png)
+   <p>6.1 Kerangka di VSCode</p>
  
 
 7. Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
-   <p>2.1 Kerangka di VSCode</p>
+   <p>7.1 Kerangka di VSCode</p>
+ ![](Foto/foto13.png)
+   <p>7.2 Ini hasil di Microsoft Edge</p>
  ![](Foto/foto14.png)
- p>2.2 Ini hasil di Microsoft Edge</p>
-   <p>2.2 Ini hasil di Microsoft Edge</p>
- ![](Foto/foto15.png)
+
+
 
  
