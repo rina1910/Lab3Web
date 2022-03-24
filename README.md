@@ -12,9 +12,9 @@
    ![](Foto/foto1.png)
 
 2. Kemudian membuat dokumen HTML dengan nama file lab3_list.html
-    <p>2.1 Kerangka di VSCode</p>
+   <p>2.1 Kerangka di VSCode</p>
    ![](Foto/foto2.png)
-    <p>2.2 Ini hasil di Microsoft Edge</p>
+   <p>2.2 Ini hasil di Microsoft Edge</p>
    ![](Foto/foto3.png)
 
 3. Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
