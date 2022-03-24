@@ -41,9 +41,7 @@
 ![](Foto/foto11.png)
    <p>6.2 Ini hasil di Microsoft Edge</p>
 ![](Foto/foto12.png)
-   <p>6.1 Kerangka di VSCode</p>
  
-
 7. Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
    <p>7.1 Kerangka di VSCode</p>
  ![](Foto/foto13.png)
