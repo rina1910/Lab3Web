@@ -64,9 +64,14 @@ horizontal).</p>
    <p>Kerangka di VSCode</p>
  ![](Foto/foto17.png)
  ![](Foto/foto18.png)
-   <p>Ini hasil di Microsoft Edge</p>
  ![](Foto/foto19.png)
-   
+   <p>Ini hasil di Microsoft Edge</p>
+
+10. Supaya tampilan formnya lebih menarik, perlu ditambahkan CSS sebagai berikut:
+    <p>Kerangka di VSCode</p>
+ ![](Foto/foto20.png)
+ ![](Foto/foto21.png)
+    <p>Ini hasil di Microsoft Edge</p>
 
 
 
