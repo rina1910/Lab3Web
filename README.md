@@ -64,11 +64,9 @@
  ![](Foto/foto19.png)
    <p>Ini hasil di Microsoft Edge</p>
 
-10. Supaya tampilan formnya lebih menarik, perlu ditambahkan CSS sebagai berikut:
-   <p> Kerangka di VSCode</p>
- ![](Foto/foto20.png)
- ![](Foto/foto21.png)
-    <p>Ini hasil di Microsoft Edge</p>
+10. Supaya tampilan formnya lebih menarik, perlu ditambahkan CSS sebagai berikut:<p> Kerangka di VSCode</p>
+![](Foto/foto20.png) <p>Ini hasil di Microsoft Edge</p>
+![](Foto/foto21.png)
 
 # Pertanyaan dan Tugas
 1. <p>Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.</p>
