@@ -3,86 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
     <title>Data Mahasiswa</title>
-    <style>
-        h1{
-            text-align: center;;
-        }
-        form fieldset{
-            border-style: solid;
-            border-color: blue;   
-            padding: 25px;
-            background-color: burlywood;
-            background-repeat: no-repeat;
-            background-size: auto;
-            position: absolute; 
-            right: 390px;
-            width: 35%; 
-        }
-        form p > label {
-            display: inline-block;
-            width: 100px;
-        }
-        form input[type="text"], 
-        form textarea {
-            border: 1px solid #197a43;
-        }
-        form input[type="submit"] {
-            border: 1px solid #197a43;
-            background-color: #197a43;
-            color: #ffffff;
-            font-weight: bold;
-            padding: 5px 15px;
-        }
-    </style>
 </head>
 <body>
+    <div class="menu-wrap">
+        <ul>
+          <li><a href="https://ecampus.pelitabangsa.ac.id/">Home</a></li>
+          <li><a href="https://github.com/rina1910">Tutorial</a>
+            <ul>
+              <li><a href="https://github.com/rina1910/Lab1Web">HTML</a></li>
+              <li><a href="https://github.com/rina1910/Lab2Web">CSS</a></li>
+            </ul>
+        </ul>
+        </div>
     <header>
-        <h1><b>Form Mahasiswa Universitas Pelita Bangsa</b></h1>
+        <h1><b><br>Form Mahasiswa Universitas Pelita Bangsa</br></b></h1>
     </header>
     <form action="proses.php" method="post">
         <fieldset>
             <legend><img src="Logo_UPB.png" width="80" title="Logo Univeritas Pelita Bangsa"></legend>
             <p>
-                <label for="nama">Nama:</label>
+                <label for="nama">Nama  :</label>
                 <input type="text" id="nama" name="nama">
             </p>
             <p>
-                <label for="nim">NIM:</label>
+                <label for="nim">NIM    :</label>
                 <input type="text" id="nim" name="nim">
             </p>
             <p>
-                <label for="kelas">Kelas:</label>
+                <label for="kelas">Kelas    :</label>
                 <input type="text" id="kelas" name="kelas">
             </p>
             <p>
-                <label for="prodi">Prodi:</label>
-                <select name='prodi'size=1 multiple>
+                <label for="prodi">Prodi    :</label>
+                <select name='prodi'size=1 Multiselect>
                     <option value='' selected>Pilih Prodi</option>
-                    <option value='Teknik Informatika'selected='selected'>Teknik Informatika</option>
-                    <option value='Teknik Industri' selected='selected'>Teknik Industri</option>
-                    <option value='Teknik Sipil'selected='selected'>Teknik Sipil</option>
-                </select>
+                    <option value='Teknik Informatika'>Teknik Informatika</option>
+                    <option value='Teknik Industri' >Teknik Industri</option>
+                    <option value='Teknik Sipil'>Teknik Sipil</option>
+                </select> 
             <p>
-                <label for="fakultas">Fakultas:</label>
-                <select name="ddl" size=1 multiple>
+                <label for="fakultas">Fakultas :</label>
+                <select name="ddl" size=1 Multiselect>
                     <option value='' selected>Pilih Fakultas</option>
                     <option value='FEB'>Ekonomi dan Bisnis</option>
                     <option value='FIPHUM'>Ilmu Pendidikan dan Humaniora</option>
                     <option value='FAI'>Agama Islam</option>
-                    <option value='FT'selected='selected'>Teknik</option>
+                    <option value='FT'>Teknik</option>
                 </select>
             </p>
             <p>
-                <label for="angkatan">Angkatan:</label>
+                <label for="angkatan">Angkatan  :</label>
                 <input type="angka" id="angkatan" name="angkatan">
             </p>
             <p>
-                <label for="alamat">Alamat:</label>
-                <textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
+                <label for="alamat">Alamat  :</label>
+                <textarea id="alamat" name="alamat" cols="30" rows="3"></textarea>
             </p>
             <p>
-                <label>Jenis Kelamin:</label>
+                <label>Jenis Kelamin    :</label>
                 <input id="jk_l" type="radio" name="kelamin" value="L" /><label
     for="jk_l">Laki-laki</label>
                 <input id="jk_p" type="radio" name="kelamin" value="P" /><label
@@ -91,6 +71,6 @@
             <p><input type="submit" value="Login"></p>
             
         </fieldset>
-    </form>     
+    </form>    
 </body>
 </html>
