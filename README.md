@@ -67,16 +67,14 @@
 saya akan membuat dropdownmenu dan listbox dengan multiple selection menggunakan VSCode
 1. Pertama tama saya membuat file dengan nama <b>lab3_form-dropdown.html</b>
 
-2. Setelah itu saya membuat kerangka htmlnya <p>saya membuat kerangka pertamanya style, kemudian h1, selanjutnya < form action="proses.php" method="post">. Gambarannya seperti berikut:
+2. Setelah itu saya membuat kerangka htmlnya <p>isi dari kerangka ada dropdown menu, kemudian h1, selanjutnya < form action="proses.php" method="post">, form ini menggunakan multiple selection. Gambarannya seperti berikut:
 ![](Foto/foto22.png)
 
-3. Dan inilah hasilnya
+3. Dan ini kerangka css-nya
+![](Foto/foto24.png)
+
+4. Dan inilah hasilnya
 ![](Foto/foto23.png)
+![](Foto/foto25.png)
 
 
-
-
-
-
-
- 
